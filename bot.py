@@ -73,6 +73,6 @@ async def Maria(ctx):
 
 
 
-client.run("OTc5MTA4NjEwOTYzNTU4NDAw.Gybiu4.UfU_c1ncGreSVegF0-3tInJls-rp4V8BGPxHFg")
+
 
 
